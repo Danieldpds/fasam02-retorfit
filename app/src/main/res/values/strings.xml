@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade2</string>
+    <string name="hint_nome">Informe seu nome</string>
+    <string name="hint_email">Informe seu e-mail</string>
+    <string name="hint_Comentario">Insira o seu comentário</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_listar">Listar</string>
+</resources>
